@@ -1,0 +1,5413 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MATRIKS CENTRISINDO",
+                "nomor_izin": "0002/TDP/VI/2015/BPPT",
+                "tgl_akhir": "03/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7017731,
+                    -6.9243133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. RETABTAMA",
+                "nomor_izin": "0006/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6766213,
+                    -6.915754454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "WINASIS AMENANGI IHATRA.CV (WAI)",
+                "nomor_izin": "0028/TDP/VI/2015/BPPT",
+                "tgl_akhir": "23/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6007083,
+                    -6.9108091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PD HASTA LUHUR",
+                "nomor_izin": "0003/TDP/VI/2015/BPPT",
+                "tgl_akhir": "08/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6927265,
+                    -6.937615585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.SETIABUDHI ABADI",
+                "nomor_izin": "0008/TDP/VI/2015/BPPT",
+                "tgl_akhir": "09/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6587643,
+                    -6.9427216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BANYU ASIN",
+                "nomor_izin": "0005/TDP/VI/2015/BPPT",
+                "tgl_akhir": "09/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6304705,
+                    -6.886812051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. KRISSATYA PRATAMA PUTRA",
+                "nomor_izin": "0011/TDP/VI/2015/BPPT",
+                "tgl_akhir": "09/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. RAJAWALI PRATAMA MULYA",
+                "nomor_izin": "0026/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5711503,
+                    -6.9277481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BLACKBALL DESSERT",
+                "nomor_izin": "0013/TDP/VI/2015/BPPT",
+                "tgl_akhir": "25/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5986669,
+                    -6.880442335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT INSAN INFONESIA",
+                "nomor_izin": "0029/TDP/VI/2015/BPPT",
+                "tgl_akhir": "23/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.623384,
+                    -6.881801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. TRISAKTI MANUNGGAL PERKASA INTERNASIONAL",
+                "nomor_izin": "0025/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6143606,
+                    -6.9402619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. TERRA PALMA KOMODITI",
+                "nomor_izin": "0003/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6500584,
+                    -6.904929756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MULTI KARYA PERKASA",
+                "nomor_izin": "0004/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6960477,
+                    -6.925188675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. AEROMAP PROSPERINDO GEOTEKNO",
+                "nomor_izin": "0012/TDP/VI/2015/BPPT",
+                "tgl_akhir": "24/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6225833,
+                    -6.8744053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. CIPTA PRATAMA",
+                "nomor_izin": "0010/TDP/VI/2015/BPPT",
+                "tgl_akhir": "24/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6108442,
+                    -6.9180392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PUSKOPSYAH JABAR MANDIRI",
+                "nomor_izin": "0008/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6573112,
+                    -6.8930171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SINAR MULIA SEJAHTERA",
+                "nomor_izin": "0011/TDP/VI/2015/BPPT",
+                "tgl_akhir": "24/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.624094,
+                    -6.9188498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TRITANGTU",
+                "nomor_izin": "0021/TDP/VI/2015/BPPT",
+                "tgl_akhir": "28/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.630794,
+                    -6.9350534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. JAYA SARI",
+                "nomor_izin": "0002/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6718467,
+                    -6.944159343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CAHAYA SEJAHTERA ABADI",
+                "nomor_izin": "0027/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6161557,
+                    -6.8800926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BIMASATRIADES",
+                "nomor_izin": "0007/TDP/VI/2015/BPPT",
+                "tgl_akhir": "22/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.62794,
+                    -6.9516155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT JAVANA MAKMUR INDONESIA",
+                "nomor_izin": "0014/TDP/VI/2015/BPPT",
+                "tgl_akhir": "25/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5983224,
+                    -6.9162969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BUANA KEMILAU PERSADA",
+                "nomor_izin": "0009/TDP/VI/2015/BPPT",
+                "tgl_akhir": "24/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6130054,
+                    -6.9345499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CHARLIE",
+                "nomor_izin": "0031/TDP/VI/2015/BPPT",
+                "tgl_akhir": "26/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.588739,
+                    -6.929110464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BUMI POWERINDO",
+                "nomor_izin": "0005/TDP/VI/2015/BPPT",
+                "tgl_akhir": "28/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5841767,
+                    -6.8722665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT MULTI GLOBAL PLASINDO",
+                "nomor_izin": "0018/TDP/VI/2015/BPPT",
+                "tgl_akhir": "26/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5675268,
+                    -6.9415414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BINTANG GUMELAR",
+                "nomor_izin": "0033/TDP/VI/2015/BPPT",
+                "tgl_akhir": "26/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5936921,
+                    -6.910982874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MULTI PRIMA MANDIRI PRATAMA",
+                "nomor_izin": "0004/TDP/VI/2015/BPPT",
+                "tgl_akhir": "26/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5720226,
+                    -6.907420751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. CENTURY FRANCHISINDO UTAMA",
+                "nomor_izin": "0020/TDP/VI/2015/BPPT",
+                "tgl_akhir": "28/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.610291,
+                    -6.9156145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ARRNIC SETIAJAYA",
+                "nomor_izin": "0002/TDP/VI/2015/BPPT",
+                "tgl_akhir": "25/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6037462,
+                    -6.9596973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SURYA DINAMIS SENTOSA",
+                "nomor_izin": "0032/TDP/VI/2015/BPPT",
+                "tgl_akhir": "26/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.593626,
+                    -6.945058246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "UD. RIVALDI SANJAYA PUTRA",
+                "nomor_izin": "0017/TDP/VI/2015/BPPT",
+                "tgl_akhir": "26/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5814499,
+                    -6.8856643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": ": PT. GEDE UNGGUL PRATAMA",
+                "nomor_izin": "0019/TDP/VI/2015/BPPT",
+                "tgl_akhir": "27/06/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.574347,
+                    -6.911060911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BUNGSUNA",
+                "nomor_izin": "0002/TDP/VIII/2016/BPPT",
+                "tgl_akhir": "01/08/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5919151,
+                    -6.9193039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. UTAMI SELARAS",
+                "nomor_izin": "0016/TDP/VII/2015/BPPT",
+                "tgl_akhir": "27/07/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6065932,
+                    -6.9196514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CAP KAPAL",
+                "nomor_izin": "0023/TDP/VII/2015/BPPT",
+                "tgl_akhir": "09/07/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.626706,
+                    -6.9120269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.ELSHADAY INKO PRIMA",
+                "nomor_izin": "0014/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "11/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6042225,
+                    -6.892219761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "VARIA MOTOR",
+                "nomor_izin": "0259/TDP/IV/2016/BPPT",
+                "tgl_akhir": "26/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6349189,
+                    -6.913229789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "MIMI KIDS GARMINDO",
+                "nomor_izin": "0003/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6476261,
+                    -6.9410463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ANTIK",
+                "nomor_izin": "0010/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6427983,
+                    -6.934905846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "AROMA",
+                "nomor_izin": "0008/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6062984,
+                    -6.917441637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.BANK DANAMON DSP DAYEUH KOLOT",
+                "nomor_izin": "0033/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "19/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.664371,
+                    -6.960573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. AURA MITRA UTAMA",
+                "nomor_izin": "0089/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5725575,
+                    -6.8933483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TOKO POP",
+                "nomor_izin": "0007/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6055424,
+                    -6.9172139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SUMBER KACA",
+                "nomor_izin": "0009/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6056027,
+                    -6.917311088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.ARTA PERKASA",
+                "nomor_izin": "0067/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.628696,
+                    -6.887553917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.MEGA LESTARI OPTIMAL NUSANTARA",
+                "nomor_izin": "0007/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6334839,
+                    -6.915064653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KUMON KOPO KENCANA",
+                "nomor_izin": "0008/TDP/IX/2015/BPPT",
+                "tgl_akhir": "03/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5985422,
+                    -6.937941918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. CITRA TAMA PERSADA",
+                "nomor_izin": "0011/TDP/IX/2015/BPPT",
+                "tgl_akhir": "03/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6065163,
+                    -6.928692467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. GEMILANG INTERNUSA",
+                "nomor_izin": "0004/TDP/IX/2015/BPPT",
+                "tgl_akhir": "01/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6854772,
+                    -6.9409273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.INSAN BINA CIPTA CEMERLANG",
+                "nomor_izin": "0066/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6337307,
+                    -6.914990097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT KAYA JAYA MANDIRI",
+                "nomor_izin": "0001/TDP/IX/2015/BPPT",
+                "tgl_akhir": "01/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59988,
+                    -6.904868505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SPECTRA",
+                "nomor_izin": "0002/TDP/IX/2015/BPPT",
+                "tgl_akhir": "01/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6387846,
+                    -6.9110744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TRIJAYA 99 MOTOR",
+                "nomor_izin": "0006/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6439088,
+                    -6.914712363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "WARUNG DANGDUT",
+                "nomor_izin": "0002/TDP/IX/2015/BPPT",
+                "tgl_akhir": "01/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.617093,
+                    -6.9034846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BRATACO",
+                "nomor_izin": "0090/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5931258,
+                    -6.9180852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. TEKAD NUSABANGUN",
+                "nomor_izin": "0005/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6187155,
+                    -6.945643459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. COLLIN VICTORY",
+                "nomor_izin": "0064/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5822981,
+                    -6.921388188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SINARJAYA RIMBAWAN ASRI",
+                "nomor_izin": "0088/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5744435,
+                    -6.9209342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PERINTIS PELAYANAN PARIPURNA",
+                "nomor_izin": "0065/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6093357,
+                    -6.9080365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. JAYA MAKMUR GLOBALINDO",
+                "nomor_izin": "0063/TDP/VIII/2015/BPPT",
+                "tgl_akhir": "31/08/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6638516,
+                    -6.903328869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ANEKA PRODUKSI NUSAJAYA",
+                "nomor_izin": "0006/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6455058,
+                    -6.907784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. RAMINDO INDAH",
+                "nomor_izin": "0004/TDP/IX/2015/BPPT",
+                "tgl_akhir": "02/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6387846,
+                    -6.9110744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TUNGGAL PANCA USAHA",
+                "nomor_izin": "0010/TDP/IX/2015/BPPT",
+                "tgl_akhir": "03/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9174639,
+                    107.6191228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.CIRCLEKA INDONESIA UTAMA",
+                "nomor_izin": "0004/TDP/IX/2015/BPPT",
+                "tgl_akhir": "03/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6037374,
+                    -6.878612436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.CIRCLEKA INDONESIA UTAMA",
+                "nomor_izin": "0002/TDP/IX/2015/BPPT",
+                "tgl_akhir": "03/09/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6093851,
+                    -6.917417318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ANJAYA SEJATI",
+                "nomor_izin": "0014/TDP/X/2015/BPPT",
+                "tgl_akhir": "07/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6151746,
+                    -6.933482337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "YANI",
+                "nomor_izin": "0043/TDP/X/2015/BPPT",
+                "tgl_akhir": "07/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6212723,
+                    -6.920464408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SINAR SARI",
+                "nomor_izin": "0050/TDP/X/2015/BPPT",
+                "tgl_akhir": "07/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6235711,
+                    -6.919169001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. GESWINN INDONESIA",
+                "nomor_izin": "0045/TDP/X/2015/BPPT",
+                "tgl_akhir": "07/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5988388,
+                    -6.922478971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BUSANA CEMERLANG GARMENT INDUSTRI",
+                "nomor_izin": "0046/TDP/X/2015/BPPT",
+                "tgl_akhir": "07/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7147518,
+                    -6.94018388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.SOFA SURYA CEMERLANG",
+                "nomor_izin": "0016/TDP/X/2015/BPPT",
+                "tgl_akhir": "07/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6986094,
+                    -6.930655985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV GLOBAL MULTI MAKMUR",
+                "nomor_izin": "0181/TDP/X/2015/BPPT",
+                "tgl_akhir": "30/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV OMEGA JAYA LESTARI",
+                "nomor_izin": "0063/TDP/X/2015/BPPT",
+                "tgl_akhir": "21/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6071534,
+                    -6.9374494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BIKERS ROAD CAPTAIN",
+                "nomor_izin": "0082/TDP/X/2015/BPPT",
+                "tgl_akhir": "23/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.944744619,
+                    107.644026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV ARIZTA",
+                "nomor_izin": "0076/TDP/X/2015/BPPT",
+                "tgl_akhir": "23/10/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KIOS SINAR AGUNG",
+                "nomor_izin": "0180/TDP/XII/2015/BPPT",
+                "tgl_akhir": "23/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5907382,
+                    -6.9151223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SURYA INDO SINGA",
+                "nomor_izin": "0066/TDP/I/2016/BPPT",
+                "tgl_akhir": "11/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5973728,
+                    -6.916378411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MISOLS KARSATAMA",
+                "nomor_izin": "0208/TDP/XI/2015/BPPT",
+                "tgl_akhir": "30/11/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6766778,
+                    -6.9159505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. HALEYORA POWERINDO",
+                "nomor_izin": "0006/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. GLOBAL DINAMIKA KENCANA",
+                "nomor_izin": "0029/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6140536,
+                    -6.898642619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SURYA FOKUS TEKNOLOGI",
+                "nomor_izin": "0025/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BINTANG TERANG",
+                "nomor_izin": "0028/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ISTANA ALUMUNIUM",
+                "nomor_izin": "0077/TDP/XII/2015/BPPT",
+                "tgl_akhir": "08/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.SUMBER RIZKY",
+                "nomor_izin": "0022/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6640512,
+                    -6.9584969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "HOKI GARMENT",
+                "nomor_izin": "0020/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6164037,
+                    -6.9507456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "LOTUS",
+                "nomor_izin": "0006/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5772215,
+                    -6.9210684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "INDAHTEX",
+                "nomor_izin": "0004/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6031353,
+                    -6.919583772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "INTI KARYA",
+                "nomor_izin": "0024/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6082722,
+                    -6.9276082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PACIFIC",
+                "nomor_izin": "0001/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. OXI LIQUINDO PRATAMA",
+                "nomor_izin": "0008/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7014482,
+                    -6.9324445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TIGA",
+                "nomor_izin": "0019/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6064674,
+                    -6.917561458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TETAP JAYA",
+                "nomor_izin": "0008/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5679512,
+                    -6.9240631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. FEBRIAN INDONESIA",
+                "nomor_izin": "0003/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6226086,
+                    -6.8714105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KURUMA MOTOR",
+                "nomor_izin": "0021/TDP/XII/2015/BPPT",
+                "tgl_akhir": "02/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV BLESINDO MEGA UTAMA",
+                "nomor_izin": "0002/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. PRAJA KARYA UTAMA",
+                "nomor_izin": "0110/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5924006,
+                    -6.87934462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT SISARTI BAKSYA ASASTA",
+                "nomor_izin": "0001/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SUKA TALAGA PENUH BERKAT",
+                "nomor_izin": "0002/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.4968999,
+                    -6.747021603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "MAKMUR ABADI",
+                "nomor_izin": "0009/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7000583,
+                    -6.9140806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PD. KILAT 88",
+                "nomor_izin": "0010/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6061782,
+                    -6.9166172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SUMBER AGUNG / HOTEL MUTIARA",
+                "nomor_izin": "0007/TDP/XII/2015/BPPT",
+                "tgl_akhir": "01/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6015563,
+                    -6.9124776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "HEGAR SUMBER KREASI. CV.",
+                "nomor_izin": "0109/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.633625,
+                    -6.914007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.INTERNASIONAL PUTRI BUDI UTAMA",
+                "nomor_izin": "0077/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5895325,
+                    -6.945973038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "MERPATI AGUNG",
+                "nomor_izin": "0138/TDP/IV/2016/BPPT",
+                "tgl_akhir": "14/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5940388,
+                    -6.922817896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT MAXI INDONESIA MANDIRI",
+                "nomor_izin": "0076/TDP/XII/2015/BPPT",
+                "tgl_akhir": "08/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BINA NIAGA",
+                "nomor_izin": "0277/TDP/IV/2016/BPPT",
+                "tgl_akhir": "26/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6377934,
+                    -6.914689149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. AGUNG RAHAYU MART",
+                "nomor_izin": "0121/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6934494,
+                    -6.963986647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TOKO BILLY",
+                "nomor_izin": "0064/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7080048,
+                    -6.9568089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.MULYAKARYA MITRAJAYA BERSAMA ( DEPO MEUBEUL KITA )",
+                "nomor_izin": "0074/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. TURA PRIMA TEXINDO",
+                "nomor_izin": "0044/TDP/XII/2015/BPPT",
+                "tgl_akhir": "08/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5513107,
+                    -6.9301673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PD.SETIA UTAMA PANGAN",
+                "nomor_izin": "0107/TDP/XII/2015/BPPT",
+                "tgl_akhir": "23/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6042751,
+                    -6.9393692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ADIRA DINAMIKA MULTI FINANCE",
+                "nomor_izin": "0021/TDP/XII/2015/BPPT",
+                "tgl_akhir": "10/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5959367,
+                    -6.927112499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ALDI KIDS\"",
+                "nomor_izin": "0114/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6063554,
+                    -6.9283197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SINAR ABADI ELECTRIK",
+                "nomor_izin": "0073/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5941635,
+                    -6.9208672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ABYNDO PRECAST PRAMESTY",
+                "nomor_izin": "0072/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6345875,
+                    -6.947632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. AKUSARA PARSA SENTOSA",
+                "nomor_izin": "0067/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6320093,
+                    -6.9525548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MEDIA MITRA GAMMA NETWORK",
+                "nomor_izin": "0031/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5880654,
+                    -6.875229293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SENTRA YASA PRIMA",
+                "nomor_izin": "0117/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.515849,
+                    -6.965011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV LAFARE TRIANA MANDIRI",
+                "nomor_izin": "0119/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. VJ",
+                "nomor_izin": "0066/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.608215,
+                    -6.9115425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. CEMPAKA LESTARI",
+                "nomor_izin": "0116/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PD. RATU (TOKO MAS RATU)",
+                "nomor_izin": "0065/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5838381,
+                    -6.9113277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SAPTA JAYA EXPRESSINDO",
+                "nomor_izin": "0076/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5936702,
+                    -6.906873923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. MAKMUR KREATIF SUKSES",
+                "nomor_izin": "0070/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.581454,
+                    -6.8855535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BOGA RASA PRIMA",
+                "nomor_izin": "0115/TDP/XII/2015/BPPT",
+                "tgl_akhir": "14/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5978956,
+                    -6.9049604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT MOTION INDONESIA",
+                "nomor_izin": "0081/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BPD JABAR BANTEN CAB. TAMANSARI",
+                "nomor_izin": "0033/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6092126,
+                    -6.895576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BAROKAH MOTOR",
+                "nomor_izin": "0122/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SINAR SEJATI",
+                "nomor_izin": "0125/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6022615,
+                    -6.9178067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. RIZKI TULUS MANDIRI",
+                "nomor_izin": "0083/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6802232,
+                    -6.8997903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. KHANSA NUSA PERSADA",
+                "nomor_izin": "0120/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6590357,
+                    -6.9109253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.PILAR LESTARI UNGGUL MAJU",
+                "nomor_izin": "0120/TDP/XII/2015/BPPT",
+                "tgl_akhir": "28/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.GOLD STAR",
+                "nomor_izin": "0110/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SELAMAT BAHAGIA SEJAHTERA",
+                "nomor_izin": "0082/TDP/XII/2015/BPPT",
+                "tgl_akhir": "15/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6274259,
+                    -6.9267937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KIOS MAMIN",
+                "nomor_izin": "0125/TDP/VII/2016/BPPT",
+                "tgl_akhir": "29/07/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5984249,
+                    -6.9397593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.DUNIA USAHA KARYA UNGGULAN",
+                "nomor_izin": "0119/TDP/XII/2015/BPPT",
+                "tgl_akhir": "28/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KING OF KINGS\"",
+                "nomor_izin": "0182/TDP/XII/2015/BPPT",
+                "tgl_akhir": "23/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5638295,
+                    -6.8900557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. KARYA ARTHA LESTARI",
+                "nomor_izin": "0184/TDP/XII/2015/BPPT",
+                "tgl_akhir": "23/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5678201,
+                    -6.907522203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BEKTI ALBAR",
+                "nomor_izin": "0183/TDP/XII/2015/BPPT",
+                "tgl_akhir": "23/12/2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6662126,
+                    -6.942319899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. DEKA PRATAMA",
+                "nomor_izin": "0063/TDP/I/2016/BPPT",
+                "tgl_akhir": "11/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6153753,
+                    -6.9456133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT KARYA MARIEN MUTIARA",
+                "nomor_izin": "0016/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6620077,
+                    -6.899999682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "K. G. H 2",
+                "nomor_izin": "0127/TDP/I/2016/BPPT",
+                "tgl_akhir": "22/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6042872,
+                    -6.9019454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PRIMA GRAHA SENTOSA",
+                "nomor_izin": "0020/TDP/II/2016/BPPT",
+                "tgl_akhir": "02/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6074668,
+                    -6.8468496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. LINTAS MANDIRI ARTHAPRIMA",
+                "nomor_izin": "0040/TDP/V/2016/BPPT",
+                "tgl_akhir": "09/05/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6165884,
+                    -6.8971514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. REKA PRIMA CONSULTANTS",
+                "nomor_izin": "0038/TDP/I/2016/BPPT",
+                "tgl_akhir": "24/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6554713,
+                    -6.9232583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "JAYA KARPET",
+                "nomor_izin": "0129/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. ELANG PERSADA GEMILANG",
+                "nomor_izin": "0056/TDP/XI/2016/BPPT",
+                "tgl_akhir": "09/11/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6333685,
+                    -6.948991709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ANUGERAH PEMBANGUNAN",
+                "nomor_izin": "0130/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6293575,
+                    -6.9438716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. WIJAYA PRIMA GRUP",
+                "nomor_izin": "0106/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.612759,
+                    -6.9377207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BALE BOOM",
+                "nomor_izin": "0105/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5878748,
+                    -6.920449311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. GLOBALINDO ENGINEERING",
+                "nomor_izin": "0128/TDP/I/2016/BPPT",
+                "tgl_akhir": "24/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6774675,
+                    -6.9152087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SEKAWAN / STUDIO FAMILY KARAOKE",
+                "nomor_izin": "0108/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KALIMAS",
+                "nomor_izin": "0107/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.931283775,
+                    107.6052827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. IDELIE CEMERLANG",
+                "nomor_izin": "0134/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6093949,
+                    -6.9418206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PERMIKA PRIMA ARTHA",
+                "nomor_izin": "0132/TDP/I/2016/BPPT",
+                "tgl_akhir": "25/01/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6311607,
+                    -6.9198389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. GALIH REREKA MANUNGGAL",
+                "nomor_izin": "0088/TDP/IV/2016/BPPT",
+                "tgl_akhir": "25/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "HASIL LAUT",
+                "nomor_izin": "0059/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6021313,
+                    -6.917210775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. IWAN SATRIA",
+                "nomor_izin": "0177/TDP/II/2016/BPPT",
+                "tgl_akhir": "18/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.613923,
+                    -6.9343747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.BAHANA CAHAYA SEJATI",
+                "nomor_izin": "0176/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6394972,
+                    -6.9462187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TATA SARANA KARYA",
+                "nomor_izin": "0170/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6692125,
+                    -6.94753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PD. MATAGEN",
+                "nomor_izin": "0171/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6047706,
+                    -6.927151501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV DIRGA FADILLAH",
+                "nomor_izin": "0175/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TIMUPARI JAYA LASMARI",
+                "nomor_izin": "0012/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.623248,
+                    -6.923806372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. ADITIYA MANDIRI",
+                "nomor_izin": "0258/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7009758,
+                    -6.9117326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BELITA K-BEAUTY",
+                "nomor_izin": "0109/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BANK FAMA INTERNATIONAL",
+                "nomor_izin": "0045/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6459468,
+                    -6.913565977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. TRI EXNAS",
+                "nomor_izin": "0057/TDP/II/2016/BPPT",
+                "tgl_akhir": "17/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. RAJAWALI MEDIKA MANDIRI",
+                "nomor_izin": "0185/TDP/II/2016/BPPT",
+                "tgl_akhir": "18/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5731149,
+                    -6.9121057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT OJU TEXTILE INDONESIA",
+                "nomor_izin": "0115/TDP/II/2016/BPPT",
+                "tgl_akhir": "18/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TRIXYANNA",
+                "nomor_izin": "0209/TDP/II/2016/BPPT",
+                "tgl_akhir": "23/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.615322,
+                    -6.9236068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT MULIA KENCANA SEMESTA",
+                "nomor_izin": "0063/TDP/II/2016/BPPT",
+                "tgl_akhir": "19/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KOPKAR PT. (PERSERO) ANGKASAPURA II",
+                "nomor_izin": "0184/TDP/II/2016/BPPT",
+                "tgl_akhir": "18/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.579709,
+                    -6.90475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SURYA PUTRA PERKASA",
+                "nomor_izin": "0183/TDP/II/2016/BPPT",
+                "tgl_akhir": "18/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6598408,
+                    -6.9109703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. NATRACO TUNAS CITRA",
+                "nomor_izin": "0066/TDP/II/2016/BPPT",
+                "tgl_akhir": "19/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PANDAWA CITRA PRIMA",
+                "nomor_izin": "0061/TDP/II/2016/BPPT",
+                "tgl_akhir": "19/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6266746,
+                    -6.8752706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. KIM SAN DEPE / KIM SAN MOTOR",
+                "nomor_izin": "0187/TDP/II/2016/BPPT",
+                "tgl_akhir": "19/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.603345,
+                    -6.9219542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. EFLEX INDONESIA",
+                "nomor_izin": "0062/TDP/II/2016/BPPT",
+                "tgl_akhir": "19/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.668887,
+                    -7.090911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. KALYANAMITTA BANINDO",
+                "nomor_izin": "0061/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6269613,
+                    -6.928079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.TRI ANUGRAH ABADI",
+                "nomor_izin": "0242/TDP/IV/2016/BPPT",
+                "tgl_akhir": "25/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6323185,
+                    -6.8968008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. ZAYCO BOGA ALIFA",
+                "nomor_izin": "0231/TDP/IV/2016/BPPT",
+                "tgl_akhir": "22/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6606096,
+                    -6.955659513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SUMBER HOKI",
+                "nomor_izin": "0123/TDP/IV/2016/BPPT",
+                "tgl_akhir": "12/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6039443,
+                    -6.9238659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "GUNUNG AGUNG",
+                "nomor_izin": "0074/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6006829,
+                    -6.9172161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. AGUNG DUTA SELARAS",
+                "nomor_izin": "0175/TDP/II/2016/BPPT",
+                "tgl_akhir": "26/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6108831,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. KARYA INOVASI MANDIRI",
+                "nomor_izin": "0080/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.JAYA KREASI SEJATI",
+                "nomor_izin": "0026/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.COMMANDO ADVENTURE",
+                "nomor_izin": "0018/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6842576,
+                    -6.961779535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. FAIRUZ PUTRI BUNGSU",
+                "nomor_izin": "0024/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6523607,
+                    -6.918699384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BANK BUMI ARTA INDONESIA CABANG PEMBANTU",
+                "nomor_izin": "0087/TDP/II/2016/BPPT",
+                "tgl_akhir": "26/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.BANK BUMI ARTA INDONESIA",
+                "nomor_izin": "0088/TDP/II/2016/BPPT",
+                "tgl_akhir": "26/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. PERMATASARI",
+                "nomor_izin": "0260/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6035099,
+                    -6.9386464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SUBUR JAYA",
+                "nomor_izin": "0261/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6280492,
+                    -6.912010691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT KAGUM KARYA HUSADA",
+                "nomor_izin": "0009/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT BOEDJANGAN MAKMUR ABADI",
+                "nomor_izin": "0182/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT TIRTA GANGGATAMA",
+                "nomor_izin": "0007/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "FAN",
+                "nomor_izin": "0033/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. BANYUMAS",
+                "nomor_izin": "0254/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6496147,
+                    -6.9024124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. AKSES GLOBALINDO",
+                "nomor_izin": "0252/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5980473,
+                    -6.9471595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. AKSES CIPTA SOLUSI",
+                "nomor_izin": "0253/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5980473,
+                    -6.9471595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. KARTIKA PRADIPTAPRISMA",
+                "nomor_izin": "0251/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.586969,
+                    -6.8866542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ARIA GRAHA",
+                "nomor_izin": "0004/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6790174,
+                    -6.9376607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "AGRONIAGA LESTARI",
+                "nomor_izin": "0082/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.612093,
+                    -6.956501407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. INDOMARCO PRISMATAMA ( INDOMARET )",
+                "nomor_izin": "0093/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6365673,
+                    -6.9122338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. INDOMARCO PRISMATAMA ( INDOMARET )",
+                "nomor_izin": "0095/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6077832,
+                    -6.9190999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. INDOMARCO PRISMATAMA ( INDOMARET )",
+                "nomor_izin": "0097/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6454451,
+                    -6.9074982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. INDOMARCO PRISMATAMA ( INDOMARET )",
+                "nomor_izin": "0098/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6394332,
+                    -6.9015937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ESA KIRANA NUSA",
+                "nomor_izin": "0247/TDP/II/2016/BPPT",
+                "tgl_akhir": "26/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6006431,
+                    -6.9255733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "RALLY MOTOR",
+                "nomor_izin": "0089/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6052558,
+                    -6.9296759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SILIH WANGI",
+                "nomor_izin": "0077/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6289469,
+                    -6.934817587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BANK PAN INDONESIA, TBK",
+                "nomor_izin": "0013/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.58412,
+                    -6.907590563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BANK PAN INDONESIA, TBK",
+                "nomor_izin": "0011/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5871401,
+                    -6.929456478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. GUADA SISFO SOLUSI",
+                "nomor_izin": "0015/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6166677,
+                    -6.9223521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MANDIRA DIAN SEMESTA",
+                "nomor_izin": "0016/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6376539,
+                    -6.9146998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT BUDI AGUNG SENTOSA",
+                "nomor_izin": "0029/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5996549,
+                    -6.9159461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. ALPIN",
+                "nomor_izin": "0002/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. JAVA FOREST FURNINDO",
+                "nomor_izin": "0001/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6088231,
+                    -6.928370129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. API GAS NASIONAL",
+                "nomor_izin": "0090/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.593419,
+                    -6.9533048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "NEW OMEGA",
+                "nomor_izin": "0006/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6378247,
+                    -6.9560824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MAYBANK INDONESIA FINANCE",
+                "nomor_izin": "0001/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6130054,
+                    -6.9345499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.MAJUJAYA SOLUSI CEMERLANG",
+                "nomor_izin": "0004/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5749521,
+                    -6.917399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MEKAR MULTI MITRA",
+                "nomor_izin": "0005/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6587643,
+                    -6.9427216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PERINTIS PELAYANAN PARIPURNA / CENTURY",
+                "nomor_izin": "0006/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605562,
+                    -6.8935451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PERINTIS PELAYANAN PARIPURNA / CENTURY",
+                "nomor_izin": "0007/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6447871,
+                    -6.9141437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TRIODA ELEKTRIKA",
+                "nomor_izin": "0257/TDP/II/2016/BPPT",
+                "tgl_akhir": "28/02/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5906028,
+                    -6.9232623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SUBUR PRATAMA SEJAHTERA",
+                "nomor_izin": "0022/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6052827,
+                    -6.9232603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BERKAH ABADI",
+                "nomor_izin": "0005/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.572326,
+                    -6.8918376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ANDERISKA INTER CONSULTANT",
+                "nomor_izin": "0003/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.682013,
+                    -6.9420237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. CIPTA MULYA SARANA",
+                "nomor_izin": "0053/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7194307,
+                    -6.966965698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "DALLE LINTAS WANUA, CV",
+                "nomor_izin": "0211/TDP/IV/2016/BPPT",
+                "tgl_akhir": "21/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6376525,
+                    -6.9362934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PERMIKA PRIMA ARTHA",
+                "nomor_izin": "0002/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6725848,
+                    -6.9036986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. IAN JAYA SAKTI SEJAHTERA",
+                "nomor_izin": "0029/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "HARJA GUNATAMA LESTARI PT (BORMA)",
+                "nomor_izin": "0128/TDP/IV/2016/BPPT",
+                "tgl_akhir": "13/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. CAKRAWALA BERKAH ARSANA",
+                "nomor_izin": "0009/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5573258,
+                    -6.9352176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. INSAN JAYA MUKTI",
+                "nomor_izin": "0031/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6023048,
+                    -6.9144874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. R E Z E K I",
+                "nomor_izin": "0083/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.584394,
+                    -6.9586699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SAMATOR GAS INDUSTRI (CABANG)",
+                "nomor_izin": "0012/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9149033,
+                    107.6994347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PD. J.A. MANDIRI",
+                "nomor_izin": "0081/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.674994,
+                    -6.918345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SARI LOGAM",
+                "nomor_izin": "0031/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5971501,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TRANSINDO CITRA UTAMA. CV.",
+                "nomor_izin": "0003/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV MAHAKARYA EIZET",
+                "nomor_izin": "0010/TDP/III/2016/BPPT",
+                "tgl_akhir": "01/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SURYA TEKNIK",
+                "nomor_izin": "0060/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6126397,
+                    -6.9262113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. LANGGENG KENCANA",
+                "nomor_izin": "0025/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5810026,
+                    -6.9081886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ZHARSYS AMANAH MANDIRI",
+                "nomor_izin": "0057/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6298351,
+                    -6.9376568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TOKO NAGA TERANG",
+                "nomor_izin": "0018/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6006829,
+                    -6.9172161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT LEA SANENT",
+                "nomor_izin": "0007/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. UBAR JALINDO",
+                "nomor_izin": "0006/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7014482,
+                    -6.9324445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "JAYA YOGHURT",
+                "nomor_izin": "0027/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6286499,
+                    -6.9342543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. JODAM",
+                "nomor_izin": "0030/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6446749,
+                    -6.9001094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV ANUGERAH JAYA LESTARI",
+                "nomor_izin": "0035/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5857416,
+                    -6.9232548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT INDOBANDUNG SEJAHTERA",
+                "nomor_izin": "0037/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605534,
+                    -6.9536915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PRIMKOPAR PERUM. PERHUTANI KPH BANDUNG SELATAN",
+                "nomor_izin": "0062/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6316726,
+                    -6.915588673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.MULYABHAKTI PADIPTA",
+                "nomor_izin": "0049/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.KAWAN GEMILANG",
+                "nomor_izin": "0028/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "HOSHI PLAZA",
+                "nomor_izin": "0026/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.GLOBAL QUALITY INDONESIA",
+                "nomor_izin": "0010/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT ARJUNA SATRIAAGUNG",
+                "nomor_izin": "0022/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT TRIPUTRA KARYA ANUGERAH",
+                "nomor_izin": "0042/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT TRIPUTRA KARYA LESTARI",
+                "nomor_izin": "0041/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT HARIFF DAYA TUNGGAL ENGINEERING",
+                "nomor_izin": "0021/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TREND",
+                "nomor_izin": "0034/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5687165,
+                    -6.9396431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SARANA USAHA SEJAHTERA INSANPALAPA",
+                "nomor_izin": "0009/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6206622,
+                    -6.903913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SENTOSA ABADI BERJAYA PROPERTINDO",
+                "nomor_izin": "0025/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5974621,
+                    -6.9027852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT INTEGRASI PRIMA LOGIKA",
+                "nomor_izin": "0028/TDP/III/2016/BPPT",
+                "tgl_akhir": "02/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. DELTA USAHA",
+                "nomor_izin": "0067/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6491905,
+                    -6.9543056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "KOPERASI KARYAWAN KELUARGA SEJAHTERA",
+                "nomor_izin": "0013/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6762506,
+                    -6.9437133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT NESS KARAKEI CREATIVE (NESS)",
+                "nomor_izin": "0040/TDP/III/2016/BPPT",
+                "tgl_akhir": "06/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ALEX COLLECTION",
+                "nomor_izin": "0030/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV NUANSA FAJAR",
+                "nomor_izin": "0052/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6068463,
+                    -6.953555205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. PINDAD ENJINIRING INDONESIA",
+                "nomor_izin": "0011/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5959313,
+                    -6.8994755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. FININDO FOODS INDONESIA",
+                "nomor_izin": "0020/TDP/III/2016/BPPT",
+                "tgl_akhir": "05/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6120105,
+                    -6.901601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV INDOSETIA VISITAMA",
+                "nomor_izin": "0014/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CAHAYA INDAH",
+                "nomor_izin": "0069/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. JAYA BANGUNAN SENTOSA",
+                "nomor_izin": "0055/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.908576784,
+                    107.61453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "EN ENGINEERING",
+                "nomor_izin": "0054/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BANK WOORI INDONESIA 1906, TBK",
+                "nomor_izin": "0024/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6076724,
+                    -6.9225995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SYAM OPTIK",
+                "nomor_izin": "0046/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6585274,
+                    -6.9559697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. MUSTIKA ALAM",
+                "nomor_izin": "0084/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. OCEANA GLOBAL PROMOSINDO",
+                "nomor_izin": "0056/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5806707,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MULTI INDAHUSAHA RUKUN SEJATI",
+                "nomor_izin": "0015/TDP/III/2016/BPPT",
+                "tgl_akhir": "03/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6464183,
+                    -6.9250573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "ORANGE MOTOR",
+                "nomor_izin": "0085/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6243021,
+                    -6.9325497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. KIDUNG PERDANA INDONESIA",
+                "nomor_izin": "0036/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.GUSAN KARYA WAHANA",
+                "nomor_izin": "0068/TDP/III/2016/BPPT",
+                "tgl_akhir": "06/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. DIAN SEMESTA RAYA",
+                "nomor_izin": "0064/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6596535,
+                    -6.9308728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. SARANA USAHA SEJAHTERA INSANPALAPA",
+                "nomor_izin": "0019/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.619337,
+                    -6.9005546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SHELTER CAFE AND BAR",
+                "nomor_izin": "0032/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6106315,
+                    -6.8996407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "MELLA BUTIK",
+                "nomor_izin": "0066/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6016979,
+                    -6.9242731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MARGAJAYA",
+                "nomor_izin": "0070/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5978368,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MITRA DUTA PRADANA",
+                "nomor_izin": "0043/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6307958,
+                    -6.919508837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "EMMA APOTEK",
+                "nomor_izin": "0018/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5589157,
+                    -6.9287221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SENTRAF UTAMA",
+                "nomor_izin": "0038/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6437287,
+                    -6.9616869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "WIJAYA",
+                "nomor_izin": "0037/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6022478,
+                    -6.9175085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT CAKRAWALA MITRA BERSAMA",
+                "nomor_izin": "0033/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TOKO PLAZA INDAH",
+                "nomor_izin": "0034/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT INFOKOM EXE",
+                "nomor_izin": "0035/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT ADIYUSTIKA JAYA SENTOSA",
+                "nomor_izin": "0017/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV PALAIS",
+                "nomor_izin": "0063/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT TAKA INDONESIA",
+                "nomor_izin": "0076/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6886858,
+                    -6.9371056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "H. S",
+                "nomor_izin": "0075/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5726697,
+                    -6.9309961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. FAJAR INDAH LESTARI / FIX BOUTIQUE KARAOKE",
+                "nomor_izin": "0065/TDP/III/2016/BPPT",
+                "tgl_akhir": "04/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6066147,
+                    -6.9193158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. DARMIN CONSTRUCTION",
+                "nomor_izin": "0053/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6163961,
+                    -6.8972585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BIRU LANGIT ASIA",
+                "nomor_izin": "0051/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6167064,
+                    -6.9315082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. GANESHA PRATAMA CONSULTANT",
+                "nomor_izin": "0052/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6167064,
+                    -6.9315082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MELVAR PRIMA SOLUSI",
+                "nomor_izin": "0049/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5960689,
+                    -6.914443566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "UP NORMAL",
+                "nomor_izin": "0056/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.619642,
+                    -6.9258284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "B S E",
+                "nomor_izin": "0088/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5630857,
+                    -6.9434115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MAHA KREASI INDONESIA",
+                "nomor_izin": "0050/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6108364,
+                    -6.953165462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. KAI DJAYA",
+                "nomor_izin": "0029/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.583256,
+                    -6.9150429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. MAHARA JAYA",
+                "nomor_izin": "0063/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.608215,
+                    -6.9012472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TRI CIPTA MANDIRI",
+                "nomor_izin": "0089/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5905923,
+                    -6.920151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. BPR ARTHA KARYA USAHA",
+                "nomor_izin": "0032/TDP/III/2016/BPPT",
+                "tgl_akhir": "10/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.583256,
+                    -6.9150429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PUSAKA",
+                "nomor_izin": "0164/TDP/IV/2016/BPPT",
+                "tgl_akhir": "18/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "BALKON SUDIRMAN",
+                "nomor_izin": "0057/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.581279,
+                    -6.917778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "SINAR MULYA",
+                "nomor_izin": "0025/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. ALBESA WINA WISATA",
+                "nomor_izin": "0048/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5957769,
+                    -6.915418954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PRESIDEN MEUBEL",
+                "nomor_izin": "0058/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6365673,
+                    -6.9122338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. ARDELIA",
+                "nomor_izin": "0059/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6888167,
+                    -6.9640585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "TOKO KADO",
+                "nomor_izin": "0078/TDP/III/2016/BPPT",
+                "tgl_akhir": "07/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6040925,
+                    -6.8823999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. TRIKARYA ABADI",
+                "nomor_izin": "0027/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6299251,
+                    -6.949359439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. ZOOM",
+                "nomor_izin": "0095/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6733269,
+                    -6.929658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. DEVYNA",
+                "nomor_izin": "0099/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6179829,
+                    -6.9515505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SUKA JAYA SENTOSA",
+                "nomor_izin": "0060/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6005834,
+                    -6.918145547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "WR. AOS",
+                "nomor_izin": "0094/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5950902,
+                    -6.927006864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SAPTA PRATAMA",
+                "nomor_izin": "0028/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6710987,
+                    -6.9369239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. MENTARI FREIGHT SERVICES BANDUNG",
+                "nomor_izin": "0098/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6659507,
+                    -6.9399412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. NURMALA MITRA SEJATI",
+                "nomor_izin": "0062/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6424081,
+                    -6.9347935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. JOINT VENTURE",
+                "nomor_izin": "0061/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5969731,
+                    -6.8911483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. SAMUDRA",
+                "nomor_izin": "0092/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. KARYA BUANA TEKNIK",
+                "nomor_izin": "0093/TDP/III/2016/BPPT",
+                "tgl_akhir": "08/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6833265,
+                    -6.932699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. AVANT GARDE",
+                "nomor_izin": "0259/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5849249,
+                    -6.8856953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. EDURES GLOBAL LINK",
+                "nomor_izin": "0191/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.917269961,
+                    107.6688593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PRIMA",
+                "nomor_izin": "0252/TDP/III/2016/BPPT",
+                "tgl_akhir": "28/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5817218,
+                    -6.88650234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV. DEKACE MOTEKAR",
+                "nomor_izin": "0254/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6175269,
+                    -6.88672221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.ANUGERAH",
+                "nomor_izin": "0215/TDP/IV/2016/BPPT",
+                "tgl_akhir": "21/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5697487,
+                    -6.8925017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT. HARJA GUNATAMA LESTARI/BORMA",
+                "nomor_izin": "0129/TDP/IV/2016/BPPT",
+                "tgl_akhir": "13/04/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6629682,
+                    -6.9037447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV.PATRA IDEA",
+                "nomor_izin": "0253/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.633257,
+                    -6.9386736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "HAWARI",
+                "nomor_izin": "0261/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6191228,
+                    -6.9174639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "CV CYBER INTI GAPURA SILIWANGI",
+                "nomor_izin": "0257/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5693839,
+                    -6.911925484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jenis_izin": "Tanda Daftar Perusahaan",
+                "nama_perusahaan": "PT.CAKRA LIMA PAMUNGKAS",
+                "nomor_izin": "0260/TDP/III/2016/BPPT",
+                "tgl_akhir": "29/03/2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6276426,
+                    -6.951537572
+                ]
+            }
+        }
+    ]
+}

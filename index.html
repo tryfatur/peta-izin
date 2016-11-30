@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lokasi Perizinan Kota Bandung</title>
+		<meta charset=utf-8 />
+		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+		<meta property="og:title" content="Lokasi Menara Kota Bandung" />
+		<meta property="og:url" content="http://data.bandung.go.id/visualisasi" />
+		<meta property="og:image" content="preview.png" />
+		<link rel="shortcut icon" href="src/img/pemkot.png" type="image/png">
+		<link rel="icon" href="src/img/pemkot.png" type="image/png">
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans">
+		<link rel="stylesheet" type="text/css" href="src/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="src/css/mapbox.min.css" />
+		<link rel="stylesheet" type="text/css" href="src/css/style.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.Default.css">
+	</head>
+	<body>
+		<nav class="navbar navbar-blue navbar-static-top" role="navigation">
+			<div class="container">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-map">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#"><i class="fa fa-fw fa-tags"></i> Lokasi Perizinan Kota Bandung</a>
+					</div>
+					<div class="collapse navbar-collapse navbar-map">
+						<ul class="nav navbar-nav navbar-right">
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+									<i class="fa fa-fw fa-tag"></i> Pilih Jenis Izin <span class="caret"></span>
+								</a>
+								<ul class="dropdown-menu">
+									<li><a href="#" onclick="izin(1);"><i class="fa fa-fw fa-building"></i> Izin Mendirikan Bangunan (IMB)</a></li>
+									<li><a href="#" onclick="izin(2);"><i class="fa fa-fw fa-exclamation-triangle"></i> Izin Gangguan (IG/HO)</a></li>
+									<li><a href="#" onclick="izin(3);"><i class="fa fa-fw fa-registered"></i> Tanda Daftar Perusahaan (TDP)</a></li>
+									<li><a href="#" onclick="izin(4);"><i class="fa fa-fw fa-shopping-cart"></i> Izin Usaha Perdagangan (IUP)</a></li>
+									<li><a href="#" onclick="izin(5);"><i class="fa fa-fw fa-window-maximize"></i> Izin Penyelenggaraan Reklame Permanen (IPR)</a></li>
+									<li role="separator" class="divider"></li>
+									<li><a href="#">Data BPPT Kota Bandung 2015-2016</a></li>
+								</ul>
+							</li>
+							<li><a href="#tentangModal" data-toggle="modal"><i class="fa fa-fw fa-info-circle"></i>Tentang</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		<div id="map"></div>
+
+		<div class="modal fade" id="tentangModal">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title"><i class="fa fa-fw fa-info-circle"></i> Tentang Visualisasi Lokasi Perizinan Kota Bandung</h4>
+					</div>
+					<div class="modal-body text-center">
+						<p><b>Data</b> oleh <b>Badan Pelayanan Perizinan Terpadu (BPPT) Kota Bandung</b></p>
+						<p><b>Visualisasi</b> oleh <b>Tim Open Data Kota Bandung</b></p>
+					</div>
+					<div class="modal-footer">
+						<p class="text-muted text-center">&copy; 2016 - Diskominfo & BPPT Kota Bandung</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="src/js/jquery-3.1.1.min.js"></script>
+		<script src="src/js/bootstrap.min.js"></script>
+		<script src="src/js/mapbox.min.js"></script>
+		<script src="src/js/leaflet.ajax.min.js"></script>
+		<script src="src/js/Leaflet.MakiMarkers.js"></script>
+		<script src="src/js/leaflet.markercluster.js"></script>
+		<script src="src/js/bdgmap.js"></script>
+		<script src="src/js/map.js"></script>
+	</body>
+</html>
